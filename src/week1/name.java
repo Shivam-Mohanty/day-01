@@ -11,5 +11,6 @@ public class name {
         String lname = scanner.nextLine();
 
         System.out.println("Output: " + lname + " " + fname);
+
     }
 }
